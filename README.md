@@ -3,35 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
-<html>
-<div class="container">
-  <div class="box">Box 1</div>
-  <div class="box">Box 2</div>
-  <div class="box">Box 3</div>
-</div>
 
-<style>
-  .container {
-    display: flex;
-    gap: 20px;
-    padding: 20px;
-    background-color: #f0f0f0; /* Grauer Hintergrund, damit weißer Box-Schatten wirkt */
-    justify-content: center;
-  }
-
-  .box {
-    background-color: #ffffff;
-    padding: 30px;
-    flex: 1;
-    max-width: 300px;
-    text-align: center;
-    border-radius: 8px;
-    /* Leichter Schatten */
-    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
-    font-family: sans-serif;
-  }
-</style>
-</html>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!--- Arudino -->
