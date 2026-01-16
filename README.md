@@ -3,6 +3,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<html>
 <div class="container">
   <div class="box">Box 1</div>
   <div class="box">Box 2</div>
@@ -30,6 +31,7 @@
     font-family: sans-serif;
   }
 </style>
+</html>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!--- Arudino -->
