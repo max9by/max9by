@@ -3,6 +3,27 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<div align="center">
+  <table border="0">
+    <tr>
+      <td style="border: none;">
+        <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
+          <strong>Box 1</strong><br>Inhalt hier
+        </div>
+      </td>
+      <td style="border: none;">
+        <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
+          <strong>Box 2</strong><br>Inhalt hier
+        </div>
+      </td>
+      <td style="border: none;">
+        <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
+          <strong>Box 3</strong><br>Inhalt hier
+        </div>
+      </td>
+    </tr>
+  </table>
+</div>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
