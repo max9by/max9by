@@ -18,7 +18,7 @@
       </td>
       <td style="border: none;">
         <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
-          <strong>dass man hier Flexbox</strong><br>verwenden kann
+          <strong>dass man das hier</strong><br>machen kann
         </div>
       </td>
     </tr>
