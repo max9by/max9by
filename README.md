@@ -3,7 +3,33 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
+<div class="container">
+  <div class="box">Box 1</div>
+  <div class="box">Box 2</div>
+  <div class="box">Box 3</div>
+</div>
 
+<style>
+  .container {
+    display: flex;
+    gap: 20px;
+    padding: 20px;
+    background-color: #f0f0f0; /* Grauer Hintergrund, damit weißer Box-Schatten wirkt */
+    justify-content: center;
+  }
+
+  .box {
+    background-color: #ffffff;
+    padding: 30px;
+    flex: 1;
+    max-width: 300px;
+    text-align: center;
+    border-radius: 8px;
+    /* Leichter Schatten */
+    box-shadow: 0 4px 6px rgba(0, 0, 0, 0.1);
+    font-family: sans-serif;
+  }
+</style>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
   <!--- Arudino -->
@@ -42,5 +68,5 @@
   <!--- Svelte -->
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></p>
   <!---Windows Server -->
-  <a href="https://www.microsoft.com/de-de/windows-server" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Windows_Server_wordmark.svg#/media/File:Windows_Server_wordmark.svg" alt="Windows-Server_2025" width="40" height="40"/></p>
+  <a href="https://www.microsoft.com/de-de/windows-server" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Windows_Server_wordmark.svg#/media/File:Windows_Server_wordmark.svg" alt="Windows-Server_2025" height="40"/></p>
   
