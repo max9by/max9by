@@ -8,17 +8,17 @@
     <tr>
       <td style="border: none;">
         <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
-          <strong>front-end</strong><br>Inhalt hier
+          <strong>Warum die Tabelle?</strong><br>Inhalt hier
         </div>
       </td>
       <td style="border: none;">
         <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
-          <strong>back-end</strong><br>Inhalt hier
+          <strong>Um zu zeigen</strong><br>Inhalt hier
         </div>
       </td>
       <td style="border: none;">
         <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
-          <strong>etc</strong><br>Inhalt hier
+          <strong>dass man hier Flexbox</strong><br>verwenden kann
         </div>
       </td>
     </tr>
