@@ -8,8 +8,8 @@
     <tr>
       <td style="border: none;">
         <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
-          <strong>message me</strong><br>[![Contact Me](https://img.shields.io)]
-          <a href="https://tally.so/r/0Q8GXN" target="_blank" rel="noreferrer"> <img src=https://commons.wikimedia.org/wiki/File:Deepin_Icon_Theme_%E2%80%93_message_(39).svg#/media/File:Deepin_Icon_Theme_%E2%80%93_message_(39).svg" alt="arduino" width="40" height="40"/> 
+          <strong>message me</strong><br>
+          <a href="https://tally.so/r/0Q8GXN" target="_blank" rel="noreferrer"> <img src="https://commons.wikimedia.org/wiki/File:Deepin_Icon_Theme_%E2%80%93_message_(39).svg#/media/File:Deepin_Icon_Theme_%E2%80%93_message_(39).svg" alt="arduino" width="40" height="40"/> 
 
         </div>
       </td>
