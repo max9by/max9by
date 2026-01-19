@@ -70,5 +70,5 @@
   <!--- Svelte -->
   <a href="https://svelte.dev" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="svelte" width="40" height="40"/></p>
   <!---Windows Server -->
-  <a href="https://www.microsoft.com/de-de/windows-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Windows_Server_wordmark.svg/2560px-Windows_Server_wordmark.svg.png" alt="Windows-Server_2025" height="40"/></p>
+  <a href="https://www.microsoft.com/de-de/windows-server" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Windows_Server_wordmark.svg/2560px-Windows_Server_wordmark.svg.png" alt="Windows-Server_2025" height="40" width="120"/></p>
   
