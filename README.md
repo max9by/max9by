@@ -11,13 +11,16 @@
           <strong>message me</strong>
           <br>
           <a href="https://tally.so/r/0Q8GXN" target="_blank" rel="noreferrer"> 
-            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Deepin_Icon_Theme_%E2%80%93_message_%2839%29.svg/960px-Deepin_Icon_Theme_%E2%80%93_message_%2839%29.svg.png?20240115174639" alt="Message me" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Deepin_Icon_Theme_%E2%80%93_message_%2839%29.svg/960px-Deepin_Icon_Theme_%E2%80%93_message_%2839%29.svg.png?20240115174639" alt="Message me" width="60" height="60"/>
           </a> 
         </div>
       </td>
       <td style="border: none;">
         <div style="background-color: #ffffff; padding: 20px; border-radius: 8px; box-shadow: 0 4px 8px rgba(0,0,0,0.1); border: 1px solid #e1e4e8; width: 180px; text-align: center;">
-          <strong>Um zu zeigen</strong><br>Inhalt hier
+          <strong>Reddit PM</strong><br>
+          <a href="https://reddit.com/u/max9by" target="_blank" rel="noreferrer"> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Snoo.svg/1280px-Snoo.svg.png?20210210172208" alt="PM me" width="60" height="60"/>
+          </a> 
         </div>
       </td>
       <td style="border: none;">
