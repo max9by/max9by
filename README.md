@@ -1,5 +1,7 @@
-<h3 align="center"Hey there</h3>
-
+<h3 align="center">Hey there</h3>
+<h4> Who am I? </h4>
+<p>Servus!<br>I'm Max, 25 (wow, half a century already!) and recently started coding ... well, ..recently ... about a year ago.. Here you can find some interresting projects I was workig on... somehow I always end up with 4 times as many private repos as I do with public ones... is it just me or does it also happen to you? 
+So ... some hobbies of mine are coding... as to be expected... as well as vexiology and cars. If you wanna chat about those things, just hit me up!</p>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
