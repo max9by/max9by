@@ -11,7 +11,7 @@
           <strong>message me</strong>
           <br>
           <a href="https://tally.so/r/0Q8GXN" target="_blank" rel="noreferrer"> 
-            <img src="https://commons.wikimedia.org/wiki/File:Deepin_Icon_Theme_%E2%80%93_message_(39).svg" alt="Message me" width="40" height="40"/>
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Deepin_Icon_Theme_%E2%80%93_message_%2839%29.svg/960px-Deepin_Icon_Theme_%E2%80%93_message_%2839%29.svg.png?20240115174639" alt="Message me" width="40" height="40"/>
           </a> 
         </div>
       </td>
